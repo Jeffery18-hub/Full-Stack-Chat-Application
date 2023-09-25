@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidChatClient</string>
+    <string name="login_button"> enter room</string>
+    <string name="user_textview">User</string>
+    <string name="room_textview">Room</string>
+
+
+</resources>
